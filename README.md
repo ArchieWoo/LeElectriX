@@ -1,4 +1,4 @@
-﻿ <img src="./Doc/Images/LEE_Logo_001_CN.png" alt="MainView" width="500">
+﻿ <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/LEE_Logo_001_CN.png" alt="MainView" width="500">
 
 <p align="right">
     <a href="../README.en.html">English</a> |  
@@ -17,107 +17,107 @@
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
 
   <div style="text-align: center; margin: 10px;">
-    <img src="./Assets/Images/CXUSBCANII.png" alt="CXUSBCANII" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/CXUSBCANII.png" alt="CXUSBCANII" width="300">
     <p>ChuanXin Technology-USBCANII</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="./Assets/Images/CXCANalyst_Red.png" alt="CXUSBCANII" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/CXCANalyst_Red.png" alt="CXUSBCANII" width="300">
     <p>ChuanXin Technology-CANalystII</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="./Assets/Images/CXCANalyst_White.png" alt="CANalystII" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/CXCANalyst_White.png" alt="CANalystII" width="300">
     <p>ChuanXin Technology-CANalystII</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="./Assets/Images/GCUSBCANIIC.png" alt="CANalystII" width="300" >
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/GCUSBCANIIC.png" alt="CANalystII" width="300" >
     <p>GugangCheng Technology-GCUSBCANIIC</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="./Assets/Images/PCAN_USB.png" alt="PCAN_USB" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/PCAN_USB.png" alt="PCAN_USB" width="300">
     <p>PEAK-PCAN_USB</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="./Assets/Images/VN1610.png" alt="VN1610" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/VN1610.png" alt="VN1610" width="300">
     <p>Vector-VN1610</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="./Assets/Images/VN1630A.png" alt="VN1630A" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/VN1630A.png" alt="VN1630A" width="300">
     <p>Vector-VN1630A</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="./Assets/Images/VN1640A.png" alt="VN1640A" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/VN1640A.png" alt="VN1640A" width="300">
     <p>Vector-VN1640A</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="./Assets/Images/VN3600.png" alt="VN3600" height="200" >
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/VN3600.png" alt="VN3600" height="200" >
     <p>Vector-VN3600</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="./Assets/Images/VN5640.png" alt="VN5640" width="300" >
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/VN5640.png" alt="VN5640" width="300" >
     <p>Vector-VN5640</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="./Assets/Images/VN7610.png" alt="VN7610" width="300" >
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/VN7610.png" alt="VN7610" width="300" >
     <p>Vector-VN7610</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="./Assets/Images/VN7640.png" alt="VN7640" width="300" >
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/VN7640.png" alt="VN7640" width="300" >
     <p>Vector-VN7640</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="./Assets/Images/VN8900.png" alt="VN8900" width="300" >
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/VN8900.png" alt="VN8900" width="300" >
     <p>Vector-VN8900</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="./Assets/Images/ZLG_USBCANFD_100U.png" alt="ZLG_USBCANFD_100U" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/ZLG_USBCANFD_100U.png" alt="ZLG_USBCANFD_100U" width="300">
     <p>ZLG-USBCANFD_100U</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="./Assets/Images/ZLG_USBCANFD_100U_mini.png" alt="ZLG_USBCANFD_100U_MINI" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/ZLG_USBCANFD_100U_mini.png" alt="ZLG_USBCANFD_100U_MINI" width="300">
     <p>ZLG_USBCANFD_100U_MINI</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="./Assets/Images/ZLG_USBCANFD_200U.png" alt="ZLG_USBCANFD_200U" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/ZLG_USBCANFD_200U.png" alt="ZLG_USBCANFD_200U" width="300">
     <p>ZLG-USBCANFD_200U</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="./Assets/Images/ZLG_USBCANFD_400U.png" alt="ZLG_USBCANFD_400U" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/ZLG_USBCANFD_400U.png" alt="ZLG_USBCANFD_400U" width="300">
     <p>ZLG-USBCANFD_400U</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="./Assets/Images/ZLG_USBCANFD_800U.png" alt="ZLG_USBCANFD_800U" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/ZLG_USBCANFD_800U.png" alt="ZLG_USBCANFD_800U" width="300">
     <p>ZLG-USBCANFD_800U</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="./Assets/Images/ZLG_USBCAN_2E_U.png" alt="ZLG_USBCAN_2E_U" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/ZLG_USBCAN_2E_U.png" alt="ZLG_USBCAN_2E_U" width="300">
     <p>ZLG_USBCAN_2E_U</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="./Assets/Images/ZLG_USBCAN_4E_U.png" alt="ZLG_USBCAN_4E_U" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/ZLG_USBCAN_4E_U.png" alt="ZLG_USBCAN_4E_U" width="300">
     <p>ZLG_USBCAN_4E_U</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="./Assets/Images/ZLG_USBCAN_8E_U.png" alt="ZLG_USBCAN_8E_U" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/ZLG_USBCAN_8E_U.png" alt="ZLG_USBCAN_8E_U" width="300">
     <p>ZLG_USBCAN_8E_U</p>
   </div>
 </div>
@@ -126,16 +126,16 @@
 #### 2. 安装已经有的硬件的驱动
 
 #### 3. 打开软件，查看是否可以扫描到对应的硬件
-<img src="./Doc/Images/MainView_Cn.png" alt="MainView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/MainView_Cn.png" alt="MainView" width="800">
 
 如果未扫描到硬件请检查驱动是否安装正确。或者重新插好再点击一次刷新的按钮重新扫描一次硬件。
 
 #### 4. 导入证书文件
-<img src="./Doc/Images/SettingsView_Cn.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/SettingsView_Cn.png" alt="SettingsView" width="800">
 
 切换到设置界面之后，点击更新许可证右边的导入按钮，更新证书文件。
 
-<img src="./Doc/Images/SettingsView_LicenseSucceed_Cn.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/SettingsView_LicenseSucceed_Cn.png" alt="SettingsView" width="800">
 
 ---
 ### MCU软件刷写
@@ -144,11 +144,11 @@
 
 下图是有效的Hex文件
 
-<img src="./Doc/Images/FlashingView_MCU_OverView_Cn.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/FlashingView_MCU_OverView_Cn.png" alt="SettingsView" width="800">
 
 下图是无效的Hex文件，可能文件是加密的，或者Hex文件为不支持的MCU的型号
 
-<img src="./Doc/Images/FlashingView_MCU_HexInvalid_Cn.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/FlashingView_MCU_HexInvalid_Cn.png" alt="SettingsView" width="800">
 
 #### 2. 点击下载按钮开始下载
 
@@ -156,15 +156,15 @@
 
 <span style="color: red;"> 不同版本的Bootloader会有不同的刷写逻辑，如果点击下载后，并不能进入下载。如下图所示。 </span>
 
-<img src="./Doc/Images/FlashingView_MCU_RequestSession_Cn.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/FlashingView_MCU_RequestSession_Cn.png" alt="SettingsView" width="800">
 
 <span style="color: red;"> 请尝试点击下载，并断电5秒之后再重新上电。</span>
 
 <span style="color: red;"> 在此期间不用停止上位机的下载请求。 </span>
 
-<img src="./Doc/Images/FlashingView_MCU_IsOnFlashing_Cn.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/FlashingView_MCU_IsOnFlashing_Cn.png" alt="SettingsView" width="800">
 
-<img src="./Doc/Images/FlashingView_MCU_FlashingSucceed_Cn.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/FlashingView_MCU_FlashingSucceed_Cn.png" alt="SettingsView" width="800">
 
 ---
 ### 记录TRACE
@@ -175,27 +175,27 @@
 
 如下图所示点击播放按钮
 
-<img src="./Doc/Images/Tools_RecordTrace_Cn.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/Tools_RecordTrace_Cn.png" alt="SettingsView" width="800">
 
 如下图所示按钮为红色就是正在记录状态
 
-<img src="./Doc/Images/Tools_RecordTraceisOn_Cn.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/Tools_RecordTraceisOn_Cn.png" alt="SettingsView" width="800">
 
 下图是将Trace内容导出到Vector，可以使用CANalyzer CANOE来回放。
 
-<img src="./Doc/Images/Tools_ExportToVector_Cn.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/Tools_ExportToVector_Cn.png" alt="SettingsView" width="800">
 
 下图是Vector能解析的Trace的内容
 
-<img src="./Doc/Images/Tools_VectorTrace.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/Tools_VectorTrace.png" alt="SettingsView" width="800">
 
 下图是将Trace内容导出到PCAN，可以使用PCAN-Explorer 来回放。
 
-<img src="./Doc/Images/Tools_ExportToPcan_Cn.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/Tools_ExportToPcan_Cn.png" alt="SettingsView" width="800">
 
 下图是Pcan能解析的Trace的内容
 
-<img src="./Doc/Images/Tools_PcanTrace.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/Tools_PcanTrace.png" alt="SettingsView" width="800">
 
 ---
 
@@ -203,13 +203,13 @@
 
 #### 1. 导入要转换的的Trace文件，可以是*.asc *.trc
 
-<img src="./Doc/Images/Tools_OpenConvert_Cn.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/Tools_OpenConvert_Cn.png" alt="SettingsView" width="800">
 
 #### 2. 点击要生成的目标格式(Vector用于CANalyzer CANOE,PCAN用于Pcan-Explorler)
 
-<img src="./Doc/Images/Tools_ConvertToVector_Cn.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/Tools_ConvertToVector_Cn.png" alt="SettingsView" width="800">
 
-<img src="./Doc/Images/Tools_ConvertToPcan_Cn.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/Tools_ConvertToPcan_Cn.png" alt="SettingsView" width="800">
 
 #### 注意： 同类型的格式也支持转换，转换过程中会筛选掉报警过错误帧等信息。
 
