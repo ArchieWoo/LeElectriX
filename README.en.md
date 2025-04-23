@@ -4,7 +4,7 @@
 
 <p align="right">
     <span>English</span> |  
-    <a href="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/README.zh-CN.html">中文</a>
+    <a href="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/README.md">中文</a>
 </p>
 
 ---
@@ -364,15 +364,5 @@ The following image shows the Trace content that can be parsed by PCAN.
 
 2. New Features:  
    - Improved DBC file parsing logic. The system now dynamically detects and converts the original file encoding (e.g., GB2312, Shift_JIS) to a unified **UTF-8 format** for consistency.  
-
----
-
-### Respositary URL See [releases](https://rb-svn1.de.bosch.com/svn/c113_ELMOCN_Master/branches/01_Toolchain/04_CSharp/03_LeElectriX_FlashTool/LeElectriX_FlashTool/bin/Release).
-
-## Feedback
-
-Please submit bugs and feature requests to the contacts below.
-
-[Contact me ](mailto:qi.wu2@cn.bosch.com)
 
 ---
