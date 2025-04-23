@@ -1,7 +1,7 @@
 ﻿ <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/LEE_Logo_001_CN.png" alt="MainView" width="500">
 
 <p align="right">
-    <a href="README.en.html">English</a> |  
+    <a href="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/README.en.html">English</a> |  
     <span>中文</span>
 </p>
 

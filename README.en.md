@@ -4,7 +4,7 @@
 
 <p align="right">
     <span>English</span> |  
-    <a href="README.zh-CN.html">中文</a>
+    <a href="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/README.zh-CN.html">中文</a>
 </p>
 
 ---
