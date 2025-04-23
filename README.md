@@ -1,7 +1,7 @@
 ﻿ <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/LEE_Logo_001_CN.png" alt="MainView" width="500">
 
 <p align="right">
-    <a href="../README.en.html">English</a> |  
+    <a href="README.en.html">English</a> |  
     <span>中文</span>
 </p>
 
@@ -351,10 +351,3 @@
 
 ---
 
-## 反馈
-
-请将错误报告和功能请求提交给以下联系人。
-
-[联系我 ](mailto:qi.wu2@cn.bosch.com)
-
----
