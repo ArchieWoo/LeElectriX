@@ -1,10 +1,10 @@
 ﻿
 
- <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/LeE_LogoWithEnName.png" alt="MainView" width="500">
+ <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/LeE_LogoWithEnName.png" alt="MainView" width="500">
 
 <p align="right">
     <span>English</span> |  
-    <a href="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/README.md">中文</a>
+    <a href="https://github.com/ArchieWoo/LeElectriX/blob/master/README.md">中文</a>
 </p>
 
 ---
@@ -18,108 +18,108 @@
 <div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
 
   <div style="text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/CXUSBCANII.png" alt="CXUSBCANII" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/CXUSBCANII.png" alt="CXUSBCANII" width="300">
     <p>ChuanXin Technology-USBCANII</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/CXCANalyst_Red.png" alt="CXUSBCANII" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/CXCANalyst_Red.png" alt="CXUSBCANII" width="300">
     <p>ChuanXin Technology-CANalystII</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/CXCANalyst_White.png" alt="CANalystII" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/CXCANalyst_White.png" alt="CANalystII" width="300">
     <p>ChuanXin Technology-CANalystII</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/GCUSBCANIIC.png" alt="CANalystII" width="300" >
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/GCUSBCANIIC.png" alt="CANalystII" width="300" >
     <p>GugangCheng Technology-GCUSBCANIIC</p>
   </div>
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/PCAN_USB.png" alt="PCAN_USB" width="300">
+  <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/PCAN_USB.png" alt="PCAN_USB" width="300">
   <br>PEAK-PCAN_USB
 </p>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/VN1610.png" alt="VN1610" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/VN1610.png" alt="VN1610" width="300">
     <p>Vector-VN1610</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/VN1630A.png" alt="VN1630A" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/VN1630A.png" alt="VN1630A" width="300">
     <p>Vector-VN1630A</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/VN1640A.png" alt="VN1640A" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/VN1640A.png" alt="VN1640A" width="300">
     <p>Vector-VN1640A</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/VN3600.png" alt="VN3600" height="200" >
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/VN3600.png" alt="VN3600" height="200" >
     <p>Vector-VN3600</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/VN5640.png" alt="VN5640" width="300" >
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/VN5640.png" alt="VN5640" width="300" >
     <p>Vector-VN5640</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/VN7610.png" alt="VN7610" width="300" >
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/VN7610.png" alt="VN7610" width="300" >
     <p>Vector-VN7610</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/VN7640.png" alt="VN7640" width="300" >
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/VN7640.png" alt="VN7640" width="300" >
     <p>Vector-VN7640</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/VN8900.png" alt="VN8900" width="300" >
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/VN8900.png" alt="VN8900" width="300" >
     <p>Vector-VN8900</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/ZLG_USBCANFD_100U.png" alt="ZLG_USBCANFD_100U" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/ZLG_USBCANFD_100U.png" alt="ZLG_USBCANFD_100U" width="300">
     <p>ZLG-USBCANFD_100U</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/ZLG_USBCANFD_100U_mini.png" alt="ZLG_USBCANFD_100U_MINI" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/ZLG_USBCANFD_100U_mini.png" alt="ZLG_USBCANFD_100U_MINI" width="300">
     <p>ZLG_USBCANFD_100U_MINI</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/ZLG_USBCANFD_200U.png" alt="ZLG_USBCANFD_200U" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/ZLG_USBCANFD_200U.png" alt="ZLG_USBCANFD_200U" width="300">
     <p>ZLG-USBCANFD_200U</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/ZLG_USBCANFD_400U.png" alt="ZLG_USBCANFD_400U" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/ZLG_USBCANFD_400U.png" alt="ZLG_USBCANFD_400U" width="300">
     <p>ZLG-USBCANFD_400U</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/ZLG_USBCANFD_800U.png" alt="ZLG_USBCANFD_800U" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/ZLG_USBCANFD_800U.png" alt="ZLG_USBCANFD_800U" width="300">
     <p>ZLG-USBCANFD_800U</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/ZLG_USBCAN_2E_U.png" alt="ZLG_USBCAN_2E_U" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/ZLG_USBCAN_2E_U.png" alt="ZLG_USBCAN_2E_U" width="300">
     <p>ZLG_USBCAN_2E_U</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/ZLG_USBCAN_4E_U.png" alt="ZLG_USBCAN_4E_U" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/ZLG_USBCAN_4E_U.png" alt="ZLG_USBCAN_4E_U" width="300">
     <p>ZLG_USBCAN_4E_U</p>
   </div>
 
   <div style="text-align: center; margin: 10px;">
-    <img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/ZLG_USBCAN_8E_U.png" alt="ZLG_USBCAN_8E_U" width="300">
+    <img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/ZLG_USBCAN_8E_U.png" alt="ZLG_USBCAN_8E_U" width="300">
     <p>ZLG_USBCAN_8E_U</p>
   </div>
 
@@ -130,18 +130,18 @@
 #### 2. Install the drivers for the existing hardware
 
 #### 3. Open the software and check if the corresponding hardware can be detected
-<img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/MainView_En.png" alt="MainView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/MainView_En.png" alt="MainView" width="800">
 
 If the hardware is not detected, please check if the driver is installed correctly. 
 
 Alternatively, reconnect the hardware and click the refresh button to scan the hardware again.
 
 #### 4. Import the license file.
-<img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/SettingsView_En.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/SettingsView_En.png" alt="SettingsView" width="800">
 
 After switching to the settings interface, click the import button next to 'Update License' to update the license file.
 
-<img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/SettingsView_LicenseSucceed_En.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/SettingsView_LicenseSucceed_En.png" alt="SettingsView" width="800">
 
 ---
 
@@ -151,11 +151,11 @@ After switching to the settings interface, click the import button next to 'Upda
 
 The image below shows a valid Hex file.
 
-<img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/FlashingView_MCU_OverView_En.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/FlashingView_MCU_OverView_En.png" alt="SettingsView" width="800">
 
 The image below shows an invalid Hex file, which may be encrypted, or the Hex file may correspond to an unsupported MCU model.
 
-<img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/FlashingView_MCU_HexInvalid_En.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/FlashingView_MCU_HexInvalid_En.png" alt="SettingsView" width="800">
 
 #### 2. Click the download button to start the download
 
@@ -165,15 +165,15 @@ The image below shows an invalid Hex file, which may be encrypted, or the Hex fi
 
 <span style="color: red;"> If clicking the download button does not initiate the download, it will appear as shown in the image below. </span>
 
-<img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/FlashingView_MCU_RequestSession_En.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/FlashingView_MCU_RequestSession_En.png" alt="SettingsView" width="800">
 
 <span style="color: red;"> Please try clicking the download button, then power off for 5 seconds and power on again.</span>
 
 <span style="color: red;"> During this period, do not stop the host computer's download request. </span>
 
-<img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/FlashingView_MCU_IsOnFlashing_En.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/FlashingView_MCU_IsOnFlashing_En.png" alt="SettingsView" width="800">
 
-<img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/FlashingView_MCU_FlashingSucceed_En.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/FlashingView_MCU_FlashingSucceed_En.png" alt="SettingsView" width="800">
 
 ---
 
@@ -185,40 +185,40 @@ The image below shows an invalid Hex file, which may be encrypted, or the Hex fi
 
 Click the play button as shown in the image below.
 
-<img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/Tools_RecordTrace_En.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/Tools_RecordTrace_En.png" alt="SettingsView" width="800">
 
 The button is red, indicating that it is in the recording state, as shown in the image below.
 
-<img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/Tools_RecordTraceisOn_En.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/Tools_RecordTraceisOn_En.png" alt="SettingsView" width="800">
 
 The following image shows how to export the Trace content to Vector, which can be replayed using CANalyzer or CANOE.
 
-<img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/Tools_ExportToVector_En.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/Tools_ExportToVector_En.png" alt="SettingsView" width="800">
 
 The following image shows the Trace content that can be parsed by Vector.
 
-<img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/Tools_VectorTrace.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/Tools_VectorTrace.png" alt="SettingsView" width="800">
 
 The following image shows how to export the Trace content to PCAN, which can be replayed using PCAN-Explorer.
 
-<img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/Tools_ExportToPcan_En.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/Tools_ExportToPcan_En.png" alt="SettingsView" width="800">
 
 The following image shows the Trace content that can be parsed by PCAN.
 
-<img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/Tools_PcanTrace.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/Tools_PcanTrace.png" alt="SettingsView" width="800">
 
 ---
 ### Trace Format Conversion
 
 #### 1. Import the Trace file to be converted, which can be in the format of *.asc or *.trc.
 
-<img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/Tools_OpenConvert_En.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/Tools_OpenConvert_En.png" alt="SettingsView" width="800">
 
 #### 2. Click the target format to generate (Vector for CANalyzer or CANOE, PCAN for PCAN-Explorer).
 
-<img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/Tools_ConvertToVector_En.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/Tools_ConvertToVector_En.png" alt="SettingsView" width="800">
 
-<img src="https://raw.githubusercontent.com/ArchieWoo/FlashingTool/master/Images/Tools_ConvertToPcan_En.png" alt="SettingsView" width="800">
+<img src="https://raw.githubusercontent.com/ArchieWoo/LeElectriX/master/Images/Tools_ConvertToPcan_En.png" alt="SettingsView" width="800">
 
 #### Note: Conversion is also supported between the same type of formats, and during the conversion process, error frames and other alarm information will be filtered out.
 
