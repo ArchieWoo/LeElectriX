@@ -365,4 +365,25 @@ The following image shows the Trace content that can be parsed by PCAN.
 2. New Features:  
    - Improved DBC file parsing logic. The system now dynamically detects and converts the original file encoding (e.g., GB2312, Shift_JIS) to a unified **UTF-8 format** for consistency.  
 
+### V1.0.4.8
+1. Bug Fixes:
+    - Fix the issue where the software may exit when the compilation time parameter for the MCU does not exist.
+
+2. New Features:  
+    - None
+
+### V1.0.5.0
+1. Bug Fixes:
+    - Fixed an issue where the program might crash due to incorrect data parsing when the data length of certain MCU packets was not equal to 8.
+    - Fixed an issue where the program might crash due to handshake packet length not being equal to 8.
+
+2. New Features:
+    - Optimized behavior when pressing Enter during parameter editing in the MCU extended page — now, instead of moving to the next line, it deselects the field and removes the cursor.
+    - Added MCU diagnostic DID (Data Identifier) functionality.
+    - Added scan functionality for MCU diagnostics, supporting multi-device parameter reading. Currently supports F280039C and F28384S.
+    - Added support for hexadecimal value input in the target value fields of the MCU extended page; however, the parsed decimal value will be returned.
+    - Added MCU snapshot functionality.
+    - Improved user experience when modifying calibration IDs in the settings page — right-click now allows quick ID modification.
+    - Added functionality to modify the MCU'smanufacture date and serial number, which is only visible when unlocked with a valid key.
+
 ---
