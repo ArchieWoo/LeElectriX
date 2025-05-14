@@ -385,5 +385,17 @@ The following image shows the Trace content that can be parsed by PCAN.
     - Added MCU snapshot functionality.
     - Improved user experience when modifying calibration IDs in the settings page — right-click now allows quick ID modification.
     - Added functionality to modify the MCU'smanufacture date and serial number, which is only visible when unlocked with a valid key.
+	
+### V1.0.5.1
+1. Bug Fixes:
+    - Fixed an issue where the parameter file could not be updated due to the file being removed or the path being incorrect
+    - Fixed an issue where ZLG CANFD devices might fail to open channels other than Channel 1 after auto-scanning
+    - Fixed a crash that might occur when merging DBC files with invalid content
+    - Fixed a crash that might occur during DBC merging if the DBC file contains no valid nodes
+
+2. New Features:
+    - Added warning提示 for invalid parameter files
+    - Added dynamic display for Trace
+    - Added DBC signal parsing functionality
 
 ---
