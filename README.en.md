@@ -398,4 +398,15 @@ The following image shows the Trace content that can be parsed by PCAN.
     - Added dynamic display for Trace
     - Added DBC signal parsing functionality
 
+### V1.0.5.2
+1. Bug Fixes:
+    - None
+2. New Features:
+    - Added compatibility support for older ZLG devices (USBCAN1, USBCAN2)
+
+### V1.0.5.3
+1. Bug Fixes:
+    - Fixed application crash issue after exception throwing
+2. New Features:
+    - Added detailed log output for exception throwing issues
 ---
